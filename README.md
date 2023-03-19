@@ -1,1 +1,1 @@
-# Scala_Exception_Handling
+ there are some examples of exception handling in scala
